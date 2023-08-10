@@ -1,0 +1,8 @@
+.box
+{
+    width: fit-content;
+    height: auto;
+    border: 0cap;
+    padding: 10px;
+    margin: auto;
+}
