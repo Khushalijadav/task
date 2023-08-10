@@ -9,8 +9,7 @@
 ![task7](https://github.com/Khushalijadav/task/assets/141423031/eb4d2439-8d0e-4634-b699-5c2d7200cbd6)
 ![Screenshot (20)](https://github.com/Khushalijadav/task/assets/141423031/f86d406f-b2fc-4a7d-b988-3f38639238ea)
 ![Screenshot (21)](https://github.com/Khushalijadav/task/assets/141423031/e2216e10-da77-4167-8dba-a087b76c5727)
-![Screenshot (22)](https://github.com/Khushalijadav/task/assets/141423031/55d30b16-6fbe-4534-9695-a1cc2fda2996)
-![Screenshot (23)](https://github.com/Khushalijadav/task/assets/141423031/3e78c500-e724-4196-bfa6-d4fc047f2b3a)
+![Screenshot (22)](https://github.com/Khushalijadav/task/assets/141423031/55d30b16-6fbe-4534-9695-a1cc2fda2996
 ![Screenshot (24)](https://github.com/Khushalijadav/task/assets/141423031/637b0346-a6a5-4f21-ad58-686b006573b8)
 
 
